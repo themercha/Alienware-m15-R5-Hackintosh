@@ -67,8 +67,6 @@ When I built this setup, there weren’t many resources available for this hardw
 ## 🧩 Credits & Resources
 
 - [Dortania OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-- [Dortania AMD Guide](https://dortania.github.io/AMD-CPU/)
-- [nootedred GitHub](https://github.com/alipearl/nootedred)
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 
 ---
