@@ -56,7 +56,9 @@ When I built this setup, there weren’t many resources available for this hardw
 - ⚠️ **During installation, use `WhateverGreen.kext`, not `nootedred.kext`**  
   → `nootedred.kext` should only be added **after macOS is fully installed**  
   → Using it during install may cause black screen or kernel panics.
-- AMD kernel patches applied based on [Dortania's AMD Vanilla Guide](https://dortania.github.io/AMD-CPU/).
+- 💡 I personally used a custom BIOS (name forgotten, sorry) that allowed increasing the **iGPU VRAM allocation** from system RAM (e.g., 2GB).  
+  This resulted in noticeably better performance and fewer graphical glitches under macOS Ventura.  
+  If your system supports it, I highly recommend enabling this setting.
 - BIOS settings:
   - Secure Boot: Disabled
   - Fast Boot: Disabled
